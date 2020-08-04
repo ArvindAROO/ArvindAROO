@@ -34,13 +34,13 @@ Learning new things is my fuel for life.
 
 
 ## ☕ Get In Touch
-- LinkedIn - [LikedIn](linkedin.com/in/aroo)
+- LinkedIn - [LinkedIn](linkedin.com/in/aroo)
 - Mail - [e-mail](arookrishna@protonmail.com)
 - GitHub - [github](https://github.com/ArvindAROO/)
 - HackerRank - [hackerrank](https://www.hackerrank.com/ArvindKrishna)
 - HackerEarth - [hackerearth](https://www.hackerearth.com/@ArvindKrishna)
-- Website - Loading...
 - Telegram - [telegram](https://t.me/GuessYouKnow)
+- Website - Loading...
 
 
 ### Credits
