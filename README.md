@@ -6,6 +6,8 @@ Learning new things is my fuel for life.
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ### 👨‍💻 Languages and Tools
+
+
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/ArvindAROO/ArvindAROO)](https://github.com/ArvindAROO/ArvindAROO) 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/ArvindAROO/ArvindAROO)](https://github.com/ArvindAROO/ArvindAROO)
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/ArvindAROO/ArvindAROO)](https://github.com/ArvindAROO/ArvindAROO) 
@@ -17,7 +19,7 @@ Learning new things is my fuel for life.
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/ArvindAROO/ArvindAROO)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/ArvindAROO/ArvindAROO)
 
-
+## A little bit more info
 - 🔭 I’m currently working on #MYSELF
 - 🌱 I’m currently learning DBMS
 - 👯 I’m looking to collaborate on Literally anything
