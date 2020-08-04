@@ -37,7 +37,7 @@ Learning new things is my fuel for life.
 - GitHub - [github](https://github.com/ArvindAROO/)
 - HackerRank - [hackerrank](https://www.hackerrank.com/ArvindKrishna)
 - HackerEarth - [hackerearth](https://www.hackerearth.com/@ArvindKrishna)
-- Website - Loading [gif](https://media0.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif?cid=ecf05e47e43d8c3a13ab3917349748d0621f94a32b6b0e42&rid=giphy.gif)
+- Website - Loading ![gif](https://media0.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif?cid=ecf05e47e43d8c3a13ab3917349748d0621f94a32b6b0e42&rid=giphy.gif)
 - Telegram - [telegram](https://t.me/GuessYouKnow)
 
 
