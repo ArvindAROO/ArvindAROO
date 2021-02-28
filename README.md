@@ -21,7 +21,6 @@ Learning new things is my fuel for life.
 
 ## A little bit more info
 - 🔭 I’m currently working on #MYSELF
-- 🌱 I’m currently learning DBMS
 - 👯 I’m looking to collaborate on Literally anything
 - 🤔 I’m looking for help with, hmm..., Project integrations, python, backend JS, competetive programming
 - 💬 Ask me about: Literally anything (Not that I know about that, but I want to learn more about which I dont know)
@@ -37,9 +36,6 @@ Learning new things is my fuel for life.
 - LinkedIn - [LinkedIn](https://www.linkedin.com/in/aroo)
 - Mail - arookrishna@protonmail.com
 - GitHub - [github](https://github.com/ArvindAROO/)
-- HackerRank - [hackerrank](https://www.hackerrank.com/ArvindKrishna)
-- HackerEarth - [hackerearth](https://www.hackerearth.com/@ArvindKrishna)
-- Telegram - [telegram](https://t.me/GuessYouKnow)
 - Website - Loading...
 
 
