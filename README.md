@@ -1,4 +1,4 @@
-### 👋 Hey Guys I'm Arvind Krishna
+### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hey Guys I'm Arvind Krishna
 I am from Banglore, India and am currently doing B.Tech in Computer Science.
 
 Mainly self-taught programmer with a huge passion for programming. Feel free to ping me about any of the below topics at any time.
@@ -38,6 +38,11 @@ Learning new things is my fuel for life.
 - GitHub - [github](https://github.com/ArvindAROO/)
 - Website - Loading...
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvindAROO&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArvindAROO&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+<img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ArvindAROO&theme=github"/>
 
 ### Credits
 - Well, it's a good thing to give credits to creators, almost all the content templates were 'stolen' (not really) from https://github.com/kautukkundan/Awesome-Profile-README-templates , a big THANK YOU!
