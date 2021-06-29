@@ -28,15 +28,15 @@ Learning new things is my fuel for life.
 - 😄 Pronouns: edit this section with whatever fits me and provide a PullRequest
 - ⚡ Fun fact: Your free/paid certificates are worth shit in front of your knowledge
 
-### 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=ArvindAROO&show_icons=true&theme=radical&line_height=33)
-
 
 ## ☕ Get In Touch
 - LinkedIn - [LinkedIn](https://www.linkedin.com/in/aroo)
 - Mail - arookrishna@protonmail.com
 - GitHub - [github](https://github.com/ArvindAROO/)
 - Website - Loading...
+
+### 🏆 Github Status
+![My Github Status](https://github-readme-stats.vercel.app/api?username=ArvindAROO&show_icons=true&theme=radical&line_height=33)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvindAROO&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
