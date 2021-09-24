@@ -36,7 +36,7 @@ Learning new things is my fuel for life.
 - Website - Loading...
 
 ### 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=ArvindAROO&show_icons=true&theme=radical&line_height=33)
+![My Github Status](https://github-readme-stats.vercel.app/api?username=ArvindAroo&count_private=true&show_icons=true&theme=radical&line_height=33)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvindAROO&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
