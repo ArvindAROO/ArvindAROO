@@ -36,6 +36,9 @@ Learning new things is my fuel for life.
 - Website - Loading...
 
 ### 🏆 Github Status
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ArvindAroo&theme=onedark" alt="Aroo" /></a> </p>
+
+
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=ArvindAroo&count_private=true&show_icons=true&theme=radical&line_height=33)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvindAROO&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
