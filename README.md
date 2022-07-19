@@ -85,7 +85,7 @@ The only golden rule I follow is: **"Backend is always better than frontend"**
 <div>
     <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArvindAroo&theme=github_dark" />
     <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArvindAroo&theme=github_dark" />
-    <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArvindAroo&theme=github_dark&utcOffset=8" />
+    <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArvindAroo&theme=github_dark&utcOffset=6" />
 </div>
 
 ### Credits
