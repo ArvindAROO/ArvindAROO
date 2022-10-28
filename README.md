@@ -10,6 +10,7 @@ The only golden rule I follow is: **"Backend is always better than frontend"**
 <p align="left">📚 B.Tech in Computer Science and Engineering ( from PES University, Bangalore, India </p>
 <p align="left">📈 Backend Development, API's and Web-Scraping</p>
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FArvindAroo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
 
 <br><br>
 
@@ -30,6 +31,7 @@ The only golden rule I follow is: **"Backend is always better than frontend"**
     <img alt="" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
     <img alt="" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
     <img alt="" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+    <img alt="" src="https://img.shields.io/badge/fastAPI-000000?style=for-the-badge&logo=fastAPI&logoColor=white" />
     <img alt="" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
     <br>
     <img alt="" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
