@@ -1,13 +1,13 @@
 ### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hey Guys I'm Arvind Krishna
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width=200 height=200>
-I am from Banglore, India and am currently doing B.Tech in Computer Science. 
+I am from Bangalore, India and am currently doing B.Tech in Computer Science.
 
-Mainly self-taught programmer with a huge passion for programming. Feel free to ping me about any of the below topics at any time.
+Mainly self-taught programmer with a huge passion for programming.
 
 The only golden rule I follow is: **"Backend is always better than frontend"**
 
 
-<p align="left">📚 B.Tech in Computer Science and Engineering ( from PES University, Bengaluru, India </p>
+<p align="left">📚 B.Tech in Computer Science and Engineering ( from PES University, Bangalore, India </p>
 <p align="left">📈 Backend Development, API's and Web-Scraping</p>
 
 
@@ -34,10 +34,6 @@ The only golden rule I follow is: **"Backend is always better than frontend"**
     <br>
     <img alt="" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
     <img alt="" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-
-
-
-    
 </div>
 
 
@@ -56,12 +52,20 @@ The only golden rule I follow is: **"Backend is always better than frontend"**
     <img alt="" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img alt="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img alt="" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
-    <img alt="" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white
-" />
+    <img alt="" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 </div>
 
+## 🎨 Hobbies & Interests
+Not to show I am a good developer, but to show I have a life outside VSCode and Jupyter Notebooks.
+- **Blogging** - I write blogs about various meaningless things that I do. You can find my blogs [here](https://aroowrites.medium.com/).
+- Heavily into **EDM** and anything that has to do with **music**.
+- Interested in reading anything that has to do with **philosophy**, **psychology** and **human behaviour**.
+- Spend a lot of time shitting on **education system**.
 
 
+## 👨‍🏭 Work Experience 
+- **Backend Developer Intern** at [**TeaminUp**](https://teaminup.io/) - *April 2022 - August 2022*
+- **Part Time Backend Developer** at [**Eoraa & Co.**](https://eoraa.com/) - *August 2022 - Present*
 
 ## ☕ Get In Touch
 - LinkedIn - [LinkedIn](https://www.linkedin.com/in/aroo)
